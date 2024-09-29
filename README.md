@@ -1,5 +1,5 @@
 # jupyterlite for ぷよぷよAI
-
+©︎SEGA
 ![ぷよぷよダイジェストx2](https://github.com/user-attachments/assets/4619cbaf-5729-4ee1-af78-97727389fce0)
 
 作ったAIはこちら
