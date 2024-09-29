@@ -1,6 +1,7 @@
 # jupyterlite for ぷよぷよAI
-![ぷよぷよ画像](https://github.com/user-attachments/assets/68b2d69a-003f-4a1d-bef8-c9170d16e079)
 
+
+![agent_learn_x2](https://github.com/user-attachments/assets/875d35e5-0032-406c-9e19-54a52827d93a)
 
 ## Jupyterliteの開き方
 
