@@ -1,4 +1,5 @@
-# jupyterlite ぷよぷよAI
+# jupyterlite for ぷよぷよAI
+![ぷよぷよ画像](https://github.com/user-attachments/assets/68b2d69a-003f-4a1d-bef8-c9170d16e079)
 
 
 ## Jupyterliteの開き方
