@@ -2,6 +2,8 @@
 
 ![ぷよぷよダイジェストx2](https://github.com/user-attachments/assets/4619cbaf-5729-4ee1-af78-97727389fce0)
 
+作ったAIはこちらへ
+[https://lunanaedu.github.io/puyopuyo-kai/](https://lunanaedu.github.io/puyopuyo-kai/)でagent_learned.zipをloadします。
 
 
 ## Jupyterliteの開き方
@@ -13,8 +15,6 @@
 ## 学習方法
 作成中
 
-## 作ったAIはこちらへ
-[https://lunanaedu.github.io/puyopuyo-kai/](https://lunanaedu.github.io/puyopuyo-kai/)でagent_learned.zipをloadします。
 
 ## jupyterliteの使い方
 
