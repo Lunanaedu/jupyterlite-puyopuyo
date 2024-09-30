@@ -5,6 +5,11 @@
 作ったAIはこちら
 [https://lunanaedu.github.io/puyopuyo-kai/](https://lunanaedu.github.io/puyopuyo-kai/)でagent_learned.zipをloadします。
 
+## dezero
+ゼロから作るDeep Learning3　斎藤康毅　著  
+pyodideに対応するため一部変更  
+[https://github.com/oreilly-japan/deep-learning-from-scratch-3](https://github.com/oreilly-japan/deep-learning-from-scratch-3)
+
 
 ## Jupyterliteの開き方
 
@@ -13,7 +18,7 @@
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
 ## 学習方法
-作成中
+[https://educational-ai.hatenablog.com/entry/2024/09/30/212131](https://educational-ai.hatenablog.com/entry/2024/09/30/212131)にまとめてあります。
 
 
 ## jupyterliteの使い方
