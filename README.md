@@ -18,7 +18,7 @@ pyodideに対応するため一部変更
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
 ## 学習方法
-[https://educational-ai.hatenablog.com/entry/2024/09/30/212131](https://educational-ai.hatenablog.com/entry/2024/09/30/212131)にまとめてあります。
+[https://qiita.com/educational-ai/items/50c0fa689c01794d145e](https://qiita.com/educational-ai/items/50c0fa689c01794d145e)にまとめてあります。
 
 
 ## jupyterliteの使い方
